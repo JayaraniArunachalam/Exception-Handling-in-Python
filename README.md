@@ -17,7 +17,7 @@ I created a program to:
  
  🔹 Handle both positive integers and decimal numbers
  
-File used: [“Read the numbers”](www.google.com)
+File used: [“Read the numbers”](https://github.com/JayaraniArunachalam/Exception-Handling-in-Python/blob/main/Read%20the%20numbers)
 
 [Click here to view the PY file](https://github.com/JayaraniArunachalam/Exception-Handling-in-Python/blob/main/Day%2010%20Exception%20Handling.py)
 
